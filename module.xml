@@ -4,6 +4,7 @@
     <Module>
       <Name>external-table</Name>
       <Version>0.3.0</Version>
+      <Description>IRIS External Table allows you to access files in local filesystem</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="EXT.PKG"/>
